@@ -23,3 +23,6 @@ Route::get('setting', function () {
     return view('setting');
 });
 
+Route::get('/',function(){
+    return view('sidebar.sidebar');
+});
