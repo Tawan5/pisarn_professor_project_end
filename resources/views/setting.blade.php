@@ -8,9 +8,11 @@
         <header id="header" class="d-flex justify-content-between align-items-center shadow-sm my-4 py-3 px-4"
             style="background-color: #97CADB; color:#001B4B;">
             <div class="d-flex align-items-center">
-                <button style="width: 30px; height: 30px; border-radius: 50%; background-color: transparent; border: none; margin-right: 10px; padding: 0; display: flex; align-items: center; justify-content: center;">
-                    <i class="bi bi-arrow-left-circle-fill" style="font-size: 30px; color: #001B4B;"></i>
-                </button>
+                <a href="display">
+                    <button style="width: 30px; height: 30px; border-radius: 50%; background-color: transparent; border: none; margin-right: 10px; padding: 0; display: flex; align-items: center; justify-content: center;">
+                        <i class="bi bi-arrow-left-circle-fill" style="font-size: 30px; color: #001B4B;"></i>
+                    </button>
+                </a>
                 <h1 class="fs-3 m-0">
                     การตั้งค่าตู้อบรมร้อน
                 </h1>
