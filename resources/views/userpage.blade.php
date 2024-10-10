@@ -33,7 +33,7 @@
                         <div class="ms-2">
                             <div class="d-flex justify-content-between">
                                 <p class="mb-0" >บัญชีไลน์ผู้ใช้</p>
-                                <a href="linesetting" class="ms-auto text-primary">ตั้งค่าไลน์ผู้ใช้</a>
+                                <a href="linesetting" class="ms-auto text-primary ">ตั้งค่าไลน์ผู้ใช้</a>
                             </div>
                             <p class="mb-0 text-secondary">Singharach Nort Dakota</p>
                         </div>
