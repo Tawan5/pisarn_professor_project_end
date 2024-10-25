@@ -63,7 +63,7 @@
         <!-- ไอคอนผู้ใช้ -->
         <img src="https://cdn-icons-png.flaticon.com/512/3177/3177440.png" alt="User Icon" class="rounded-circle">
         <!-- ปุ่มล็อกอินด้วย Google -->
-        <a href="#" class="google-btn">
+        <a href="/" class="google-btn">
             <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-icon-png-transparent-background-osteopathy-16.png" alt="Google Logo" style="margin-right: 10px;">
             <span>Login with Google</span>
 
